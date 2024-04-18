@@ -1,0 +1,27 @@
+Repositories:
+	Mouse_whole-genome_analyses
+		README.md
+		Mixed_model_analyses.SAS
+		Haplotype_analyses.R
+		WGS_analyses.R
+		Local_maxima.R
+		Power_and_error_simulations.R
+
+	Response_to_selection_simulations
+		README.md
+		Selection_simulation.R
+		Simulation_results_analyses.R
+		Results_visulization.R
+		
+	Fetal_macaque_brain_analyses
+		README.md
+		Data_prepocessing.R
+		Promoter_intergenic_methylation_plots.R
+		CpG_DSS.R
+		DMR_overlap.R
+		Ontology_analyses.R
+		Functional_enrichment.R
+		Alternative_splicing.Rmd
+		
+		
+		
