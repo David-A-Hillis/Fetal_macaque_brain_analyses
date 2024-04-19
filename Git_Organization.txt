@@ -13,7 +13,7 @@ Repositories:
 		Simulation_results_analyses.R
 		Results_visulization.R
 		
-	Fetal_macaque_brain_analyses test change
+	Fetal_macaque_brain_analyses
 		README.md
 		Data_prepocessing.R
 		Promoter_intergenic_methylation_plots.R
